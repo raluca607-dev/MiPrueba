@@ -1,6 +1,6 @@
 uno
 dos
-tres
 CUATRO
 cinco
 seis
+siete
