@@ -1,0 +1,8 @@
+# ignora los archivos terminados en .class
+*.class
+
+# ignora los archivos terminados en ~
+*~
+
+# pero no importante~
+!importante~
